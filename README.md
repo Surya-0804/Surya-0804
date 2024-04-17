@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Surya-0804
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Reactjs , ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me surya.abothula@gmail.com
+- 👀 I'm passionate about exploring cutting-edge technologies.
+- 🌱 Currently, I'm immersing myself in learning ReactJS and delving into the world of machine learning.
+- 💼 I'm open to exciting collaboration opportunities.
+- 📫 Reach me at surya.abothula@gmail.com for any inquiries or collaborations.
 
 <!---
 Surya-0804/Surya-0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
