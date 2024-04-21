@@ -6,7 +6,6 @@
 - 💼 I'm open to exciting collaboration opportunities.
 - 📫 Reach me at surya.abothula@gmail.com for any inquiries or collaborations.
   
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
