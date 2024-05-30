@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abothula Ram Sai Sri Surya</h1>
+<h1 align="center">Hi 👋, I'm Ram Sai Sri Surya Abothula</h1>
 <h3 align="center">Full stack developer with a passion for coding from India.</h3>
 
 # 👨‍💻 About Me : 
