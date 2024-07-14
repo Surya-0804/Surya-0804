@@ -2,9 +2,9 @@
 <h3 align="center">Full stack developer with a passion for coding from India.</h3>
 
 # 👨‍💻 About Me : 
-- 🔭 I’m currently working on **Skill-2040**
+- 🔭 I’m currently working on **Skill-2040** and **Medi-Slot**
 - 👀 I'm passionate about exploring cutting-edge technologies.
-- 🌱 Currently, I'm immersing myself in learning **ReactJS** and delving into the world of **Deep Learning**.
+- 🌱 Currently, I'm immersing myself in learning **React Native** and delving into the world of **Deep Learning**.
 - 💼 I'm open to exciting collaboration opportunities.
 - 📫 Reach me at surya.abothula@gmail.com for any inquiries or collaborations.
   
