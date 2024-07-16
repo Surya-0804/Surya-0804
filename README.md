@@ -8,15 +8,13 @@
 - 💼 I'm open to exciting collaboration opportunities.
 - 📫 Reach me at surya.abothula@gmail.com for any inquiries or collaborations.
   
-<p align="left">
-</p>
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/suryaabothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ram-sai-sri-surya-abothula-898314280/" height="30" width="40" /></a>
-<a href="https://instagram.com/@surya_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@surya_0804" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@surya0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@surya0804" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/22pa1a0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="22pa1a0501" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/surya_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surya_0804" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suryaabothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/@surya_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@surya0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/22pa1a0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/surya_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">👨‍💻 Languages and Tools:</h2>
@@ -47,15 +45,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=surya-0804&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<table class="github-stats">
+<table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=surya-0804&show_icons=true&locale=en" alt="surya-0804" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-0804&show_icons=true&locale=en&layout=compact" alt="surya-0804" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-0804&" alt="surya-0804" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-0804&" alt="surya-0804"  align="center"/></td>
   </tr>
 </table>
-
 
 <!---
 Surya-0804/Surya-0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
