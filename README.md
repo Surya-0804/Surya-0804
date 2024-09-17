@@ -13,7 +13,7 @@
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/suryaabothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@surya.abothula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surya.abothula" height="30" width="40" /></a>
+<a href="https://medium.com/@surya.abothula" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" alt="@surya.abothula" height="30" width="40" /></a>
 <a href="https://dev.to/suryaabothula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suryaabothula" height="30" width="40" /></a>
 <a href="https://instagram.com/@surya_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@surya0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
