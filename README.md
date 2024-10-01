@@ -64,7 +64,9 @@
     <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-0804&" alt="surya-0804"  align="center"/></td>
   </tr>
 </table>
-
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=@surya.abothula&theme=dark" alt="Layout with last medium posts"  />
+</div>
 <!---
 Surya-0804/Surya-0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
