@@ -1,75 +1,66 @@
 <h1 align="center">Hi 👋, I'm Ram Sai Sri Surya Abothula</h1>
-<h3 align="center">Full stack developer with a passion for coding from India.</h3>
+<h3 align="center">
+Applied AI Engineer | LLMs • NLP • Speech-to-Text • RAG | Building Production AI Systems
+</h3>
 
-# 👨‍💻 About Me : 
-- 🔭 I’m currently working on **Skill-2040** and **Medi-Slot**
-- 👀 I'm passionate about exploring cutting-edge technologies.
-- 🌱 Currently, I'm immersing myself in learning **React Native** and delving into the world of **Deep Learning**.
-- 💼 I'm open to exciting collaboration opportunities.
-- 📫 Reach me at surya.abothula@gmail.com for any inquiries or collaborations.
-- 📝 I regularly write articles on [Medium](https://medium.com/@surya.abothula)
-
-  
-<h2 align="left">🌐 Connect with me:</h2>
-<p align="center">
-<a href="https://linkedin.com/in/suryaabothula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@surya.abothula" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" alt="@surya.abothula" height="30" width="40" /></a>
-<a href="https://dev.to/suryaabothula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="suryaabothula" height="30" width="40" /></a>
-<a href="https://instagram.com/@surya_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@surya0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/22pa1a0501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/surya_0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">👨‍💻 Languages and Tools:</h2>
-<div align="center">
-  <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://camo.githubusercontent.com/92ce1c051262bbe8c329848632e7ce3a5289de4c35182ae3d01ef1655f65c32b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" alt="Next JS" width="40" height="40" style="margin-right: 30px"/>
+# 💫 About Me:
+- 🔭 **Currently**: NLP/AI Engineer Intern at **SproutsAI**.<br>
+- 🚀 **Impact**: Built a  sourcing pipeline that improved candidate review efficiency by **80%**.<br>
+- 🛠️ **Focus**: Productionizing AI—bridging the gap between SOTA research and scalable, real-time products.<br>
+- 🌱 **Learning**: Advanced **Agentic Workflows** and **Distributed ML** (Ray, Dask).<br>
+- 📝 **Writing**: Insights on AI engineering and production failure modes on [Medium](https://medium.com/@surya.abothula).
 
 
-  </p>
-  <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 30px"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 30px"/>
-  </p>
-</div>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/suryaabothula) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/surya_0804/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryaabothula) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@surya.abothula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surya.abothula@gmail.com) 
+# 💻 Tech Stack
 
+### 🧠 AI / ML
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<h2 align="left">🔥 GitHub Stats :</h2>
+**LLMs • NLP • RAG • Speech-to-Text • Vector Search**
 
-[![](https://visitcount.itsvg.in/api?id=surya-0804&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=surya-0804&show_icons=true&locale=en" alt="surya-0804" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-0804&show_icons=true&locale=en&layout=compact" alt="surya-0804" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-0804&" alt="surya-0804"  align="center"/></td>
-  </tr>
-</table>
-<!-- <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=@surya.abothula&theme=dark" alt="Layout with last medium posts"  />
-</div> -->
-<!---
-Surya-0804/Surya-0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
---->
+### ⚙️ Backend & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ☁️ DevOps / Tooling
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+*Exploring: AWS EC2, SageMaker, Distributed ML (Ray, Dask)*
+
+## 🚀 Featured Projects
+- **VISMOH** — LLM-powered sports analytics & recommendations  
+- **Spendlytic AI** — AI-powered financial insights engine  
+- **Shivam-AI** — NLP-driven educational assistant
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Surya-0804&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Surya-0804&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-0804&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Surya-0804&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Surya-0804&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
